@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Kebab Order</string>
+    <string-array name="meal_types_array">
+        <item>Sandwich kebab</item>
+        <item>Sandwich poulet</item>
+        <item>Sandwich falafel</item>
+        <item>Sandwich mixte</item>
+        <item>Sandwich agneau</item>
+        <item>Sandwich boeuf</item>
+        <item>Sandwich shawarma</item>
+        <item>Sandwich döner</item>
+        <item>Sandwich végétarien</item>
+        <item>Sandwich poulet grillé</item>
+        <item>Sandwich fromage</item>
+        <item>Sandwich merguez</item>
+        <item>Sandwich dinde</item>
+        <item>Sandwich poisson</item>
+        <item>Sandwich kefta</item>
+    </string-array>
+    <string-array name="drinks_array">
+        <item>Coca</item>
+        <item>Fanta</item>
+        <item>Sprite</item>
+        <item>Eau</item>
+        <item>Eau aromatisé fraise</item>
+        <item>Limonade</item>
+        <item>Ice Tea</item>
+        <item>Monster</item>
+        <item>Red Bull</item>
+    </string-array>
+    <string-array name="sauces_array">
+        <item>Sauce blanche</item>
+        <item>Sauce samouraï</item>
+        <item>Sauce harissa</item>
+        <item>Sauce algérienne</item>
+        <item>Sauce barbecue</item>
+        <item>Sauce ketchup</item>
+        <item>Sauce mayonnaise</item>
+        <item>Sauce moutarde</item>
+        <item>Sauce curry</item>
+        <item>Sauce andalouse</item>
+        <item>Sauce chili</item>
+        <item>Sauce poivre</item>
+        <item>Sauce fromage</item>
+        <item>Sauce ketchup-mayo</item>
+    </string-array>
+</resources>
